@@ -1,7 +1,7 @@
-# CSE-299-ML-Model-
+# RoadSense 360 by Team NSU Wheatstone 
 
 
-## CSE299.2 Team NSU Wheatstone
+## This Project was made for CSE299 junior Design Project at NSU 
 
 We are
 

@@ -9,7 +9,7 @@ We are
 2. TAOSEEF ISHTIAK - 1612142042
 3. MEHREEN HOSSAIN ANILA -161242642
 
-RoadSense360: A machine learning approach to detect roads condition and anomalies.
+![RoadSense360: A machine learning approach to detect roads condition and anomalies](test_images/repository-open-graph-template.png)
 
 ## Methodology
 

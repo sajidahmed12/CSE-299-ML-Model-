@@ -1,11 +1,10 @@
-# RoadSense360 by Team NSU Wheatstone 
-
+# Road360 by Team NSU Wheatstone 
 
 ## This Project was made for CSE299 junior Design Project at NSU 
 
 We are
 
-1. SAJID AHMED -1610364042
+1. MD SAJID AHMED -1610364042
 2. TAOSEEF ISHTIAK - 1612142042
 3. MEHREEN HOSSAIN ANILA -161242642
 
